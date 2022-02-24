@@ -1,20 +1,3 @@
-import { initializeApp } from "firebase/app";
-import { getAnalytics } from "firebase/analytics";
-
-
-const firebaseConfig = {
-  apiKey: "AIzaSyB59JtFpyM_QTHXHocvr4yaXnGi572JZrw",
-  authDomain: "petya-and-deyan.firebaseapp.com",
-  projectId: "petya-and-deyan",
-  storageBucket: "petya-and-deyan.appspot.com",
-  messagingSenderId: "868458380394",
-  appId: "1:868458380394:web:122d3211b29e6c0347de13",
-  measurementId: "G-FPKW5SERK7"
-};
-
-const app = initializeApp(firebaseConfig);
-const analytics = getAnalytics(app);
-
 window.addEventListener("load", (e) => {
 
   const page1 = document.querySelector(".page-1");
