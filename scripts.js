@@ -8,11 +8,11 @@ window.addEventListener("load", (e) => {
 
   const page4 = document.querySelector(".page-4");
 
- 
+
 
   let activePage = page1;
 
- 
+
 
   const btn1 = document.querySelector("#btn-page-1");
 
@@ -26,7 +26,7 @@ window.addEventListener("load", (e) => {
 
   const btn4Left = document.querySelector("#btn-page-4-left");
 
- 
+
 
   btn1.addEventListener("click", (e) => {
 
@@ -40,7 +40,7 @@ window.addEventListener("load", (e) => {
 
   });
 
- 
+
 
   btn2Left.addEventListener("click", (e) => {
 
@@ -54,9 +54,9 @@ window.addEventListener("load", (e) => {
 
   });
 
- 
 
- 
+
+
 
   btn2Right.addEventListener("click", (e) => {
 
@@ -70,7 +70,7 @@ window.addEventListener("load", (e) => {
 
   });
 
- 
+
 
   btn3Left.addEventListener("click", (e) => {
 
@@ -84,9 +84,9 @@ window.addEventListener("load", (e) => {
 
   });
 
- 
 
- 
+
+
 
   btn3Right.addEventListener("click", (e) => {
 
@@ -100,7 +100,7 @@ window.addEventListener("load", (e) => {
 
   });
 
- 
+
 
   btn4Left.addEventListener("click", (e) => {
 
@@ -113,5 +113,6 @@ window.addEventListener("load", (e) => {
     activePage = page3;
 
   });
+
 
 });
