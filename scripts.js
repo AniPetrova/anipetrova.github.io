@@ -1,21 +1,23 @@
 
  let page1 = `
  <div class="page-1">
-    <img src="./images/mirrored-removebg-preview (2).png" alt="">
-    <h2>Ние,<br />Петя Лазарова & Деян Велев,</h2>
-    <p class="inviteText">
-    Заедно с нашите родители,<br>
-    с удоволствие Ви каним<br>
-    да бъдете гости на нашия<br>
-    специален сватбен ден,<br>
-    на 24ти юли 2022г!
-    </p>
-
-    <p class="inviteText anibobi">
-    Без много да умуват,<br>
-    семейство Гергови<br>
-    ще ни кумуват.
-    </p>
+ <img src="./images/mirrored-removebg-preview (2).png" alt="">
+ <section class="us">
+   <h2>Ние,</h2>
+   <h2>Петя Лазарова & Деян Велев,</h2>
+ </section>
+ <section class="mainInvite">      
+   <p class="inviteText">Заедно с нашите родители,</p>
+   <p class="inviteText">с удоволствие Ви каним</p>
+   <p class="inviteText">да бъдете гости на нашия</p>
+   <p class="inviteText"> специален сватбен ден,</p>
+   <p class="inviteText">на 24ти юли 2022г!</p>          
+ </section>
+ <section class="gergovi">
+   <p class="anibobi">Без много да умуват,</p>
+   <p class="anibobi">семейство Гергови</p>
+   <p class="anibobi">ще ни кумуват.</p>
+ </section>
 </div>`;
 
 let page2 = `
