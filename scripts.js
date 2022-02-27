@@ -21,7 +21,7 @@
 let page2 = `
   <div class="page-2">
     <img src="./images/mirrored-removebg-preview (2).png" alt="">
-    <p class="detailsText">
+    <p class="detailsText2">
       Сватбени камбани<br>
       ще звънят<br>
       и празнични свещи<br>
@@ -39,7 +39,7 @@ let page2 = `
 let page3 = `
   <div class="page-3">
     <img src="./images/mirrored-removebg-preview (2).png" alt="">
-    <p class="detailsText">
+    <p class="detailsText3">
       Там,<br>
       където красивото небе среща<br>
       приказно синьото море,<br>
@@ -58,7 +58,7 @@ let page3 = `
 let page4 = `
   <div class="page-4">
     <img src="./images/mirrored-removebg-preview (2).png" alt="">
-    <p class="detailsText">
+    <p class="detailsText4">
       На празнична вечеря <br>
       от 19:00ч. заповядайте<br>
       и удобните си обувки <br>
