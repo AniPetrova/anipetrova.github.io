@@ -1,24 +1,30 @@
 @import url(https://fonts.googleapis.com/css2?family=Cookie&family=Pacifico&family=Parisienne&display=swap);
 
+@font-face {
+  font-family: 'MyWebFont'; 
+  src: url('/CyrillicRibbon.ttf')  format('truetype'), /* Safari, Android, iOS */      
+}
+
+
 html { 
   background: url("./images/petya-back-oils - Copy.png") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  width: 100%;
+ 
 }
 
 
 .main > div {
   box-sizing: border-box;
-  margin: 0 auto;
+  margin: 0;
   padding: 0px;
+  font-family: 'MyWebFont', arial, sans-serif; 
   font-style: italic;    
   font-stretch: narrower;
   color: white;  
-  width: 100%;
-  max-width: 500px;
+
   align-items: center;
   display: flex;
   flex-direction: column;
@@ -101,5 +107,6 @@ script {
 }
 
 a {
-  margin: 10px;
+  margin: 10px 0;
+  text-align: center;
 }
