@@ -14,9 +14,9 @@
    <p class="inviteText">на 24ти юли 2022г!</p>          
  </section>
  <section class="gergovi">
-   <p class="anibobi">Без много да умуват,</p>
-   <p class="anibobi">семейство Гергови</p>
-   <p class="anibobi">ще ни кумуват.</p>
+   <p class="anibobi">Кумуват:</p>
+   <p class="anibobi">Антоанета и Борислав</p>
+   <p class="anibobi">Гергови.</p>
  </section>
 </div>`;
 
@@ -45,11 +45,11 @@ let page3 = `
       Там,<br>
       където красивото небе среща<br>
       приказно синьото море,<br>
-      ръка за ръка, ще си кажем<br>
-      най-романтичното ни "Да".<br>
-    На коктейл се насладете<br>
-    и наздравици вдигнете!<br>
-    Заповядайте в "БлекСийРама<br>
+      ръка за ръка ще си кажем<br>
+      най-романтичното ни "Да". </p>
+      <p class="detailsText3 newrow">На коктейл се насладете<br>
+    и наздравици вдигнете!</p>
+    <p class="detailsText3 newrow">Заповядайте в "БлекСийРама<br>
     Амфитеатър" от 18:00ч.</p>
     <a class="mapsLink"
     href="https://www.google.com/maps/place/Club+Residence+at+Blacksearama+Golf,+Tabiata+Area,+Road,+E87,+9600+Balchik/@43.4096649,28.2214963,17z/data=!4m6!1m3!3m2!1s0x40a4e38071d91ac1:0xba2bd3aaaee318f4!2sBlackSeaRama+Golf+%26+Villas,+Tabiata+District,+9600+Balchik!3m1!1s0x40a43d062561e71d:0x1542c8bedf323078">
@@ -72,7 +72,7 @@ let page4 = `
       Покажи на картата
     </a>
     <p class="molba">
-      Учтиво молим да потвърдите присъствието си до 15ти април 2022г.
+      Учтиво молим да потвърдите присъствието си до<br>15ти април 2022г.
     </p>
   </div>`;
 
