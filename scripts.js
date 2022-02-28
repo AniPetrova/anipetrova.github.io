@@ -14,7 +14,7 @@
    <p class="inviteText">на 24ти юли 2022г!</p>          
  </section>
  <section class="gergovi">
-   <p class="anibobi">Кумуват:</p>
+   <p class="anibobi">Кумуват ни</p>
    <p class="anibobi">Антоанета и Борислав</p>
    <p class="anibobi">Гергови.</p>
  </section>
