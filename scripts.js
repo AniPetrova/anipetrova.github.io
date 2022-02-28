@@ -49,7 +49,7 @@ let page3 = `
       най-романтичното ни "Да".<br>
     На коктейл се насладете<br>
     и наздравици вдигнете!<br>
-    Заповядайте в "БлекСиРама<br>
+    Заповядайте в "БлекСийРама<br>
     Амфитеатър" от 18:00ч.</p>
     <a class="mapsLink"
     href="https://www.google.com/maps/place/Club+Residence+at+Blacksearama+Golf,+Tabiata+Area,+Road,+E87,+9600+Balchik/@43.4096649,28.2214963,17z/data=!4m6!1m3!3m2!1s0x40a4e38071d91ac1:0xba2bd3aaaee318f4!2sBlackSeaRama+Golf+%26+Villas,+Tabiata+District,+9600+Balchik!3m1!1s0x40a43d062561e71d:0x1542c8bedf323078">
