@@ -91,7 +91,7 @@ window.addEventListener("touchstart",function(event){
 });
 
 window.addEventListener("touchend",function(event){
-  let offset = 50;//at least 100px are a swipe
+  let offset = 25;//at least 100px are a swipe
   
   if(start){
     //the only finger that hit the screen left it
